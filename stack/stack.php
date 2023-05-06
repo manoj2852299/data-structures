@@ -122,6 +122,7 @@
         public function empty(){
 
             $this->top = null;
+            $this->size = 0;
         }
     }
 
